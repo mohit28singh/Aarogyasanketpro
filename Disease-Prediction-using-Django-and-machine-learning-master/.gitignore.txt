@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+*.egg-info/
+
+# Virtual environments
+myenv/
+venv/
+env/
+ENV/
+
+# Django static files directory
+static/
+
+# Django media files directory
+media/
+
+# Database files
+*.sqlite3
+*.db
+*.db.sqlite3
+
+# Log files
+*.log
+
+# Generated files by coverage.py
+.coverage
+htmlcov/
+
+# IDE-specific files (e.g., PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files (e.g., macOS, Linux, Windows)
+.DS_Store
+Thumbs.db
+
+# Other generated files
+db.sqlite3
+*.pyc
+__pycache__/
